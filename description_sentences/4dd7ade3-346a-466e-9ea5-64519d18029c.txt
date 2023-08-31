@@ -1,0 +1,1 @@
+This house contains five rooms. More specifically, it has one other room, one kitchen, one diningroom, one balcony, and one bathroom. 

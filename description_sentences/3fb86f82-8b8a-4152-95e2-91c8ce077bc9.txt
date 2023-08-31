@@ -1,0 +1,1 @@
+This house contains four rooms. More specifically, it has one diningroom, one library, and two other rooms. 

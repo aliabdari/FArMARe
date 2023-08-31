@@ -1,0 +1,1 @@
+This house contains twelve rooms. More specifically, it has one diningroom, one balcony, one aisle, two kitchens, one bathroom, one master bedroom, four other rooms, and one bedroom.  Regarding the bedrooms, the first one, which is a master bedroom is completely empty. The second bedroom is completely empty.

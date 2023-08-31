@@ -1,0 +1,1 @@
+This house contains ten rooms. More specifically, it has one elderly room, one bathroom, one corridor, one kitchen, one stairwell, three other rooms, one courtyard, and one diningroom. 
