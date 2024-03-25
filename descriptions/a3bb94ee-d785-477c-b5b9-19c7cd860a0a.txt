@@ -1,0 +1,1 @@
+This house contains seven rooms. More specifically, it has one living dining room, one kids room, one master bedroom, one library, one other room, one bathroom, and one laundry room. Regarding the living dining room, it is completely empty. Regarding the master bedroom, it is completely empty.

@@ -1,0 +1,1 @@
+This house contains nine rooms. More specifically, it has one library, one kitchen, four other rooms, one master bedroom, one bedroom, and one cloak room.  Regarding the bedrooms, the first one, which is a master bedroom is completely empty. The second bedroom is completely empty.

@@ -1,0 +1,1 @@
+This house contains nine rooms. More specifically, it has one diningroom, one living dining room, one living room, two hallwaies, two bathrooms, one kitchen, and one other room. Regarding the living rooms, the first one, which is a living dining room is completely empty. The second living room is completely empty.

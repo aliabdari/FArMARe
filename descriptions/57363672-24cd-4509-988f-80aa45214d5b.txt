@@ -1,0 +1,1 @@
+This house contains three rooms. More specifically, it has one lounge, one diningroom, and one other room. 

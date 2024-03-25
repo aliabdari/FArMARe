@@ -1,0 +1,1 @@
+This house contains twelve rooms. More specifically, it has one diningroom, and eleven other rooms. 

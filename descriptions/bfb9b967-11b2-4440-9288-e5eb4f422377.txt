@@ -1,0 +1,1 @@
+This house contains six rooms. More specifically, it has four other rooms, one diningroom, and one bathroom. 

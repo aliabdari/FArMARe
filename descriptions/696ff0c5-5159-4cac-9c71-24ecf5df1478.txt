@@ -1,0 +1,1 @@
+This house contains ten rooms. More specifically, it has one kids room, one bathroom, two balconies, one library, one bedroom, one stairwell, one aisle, and two other rooms.  Regarding the bedroom, it is completely empty.

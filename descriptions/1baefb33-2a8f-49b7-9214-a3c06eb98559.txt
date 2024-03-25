@@ -1,0 +1,1 @@
+This house contains eight rooms. More specifically, it has one bedroom, one living room, one library, one diningroom, one bathroom, one aisle, and two other rooms. Regarding the living room, it is completely empty. Regarding the bedroom, it is completely empty.

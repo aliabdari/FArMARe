@@ -1,0 +1,1 @@
+This house contains fourteen rooms. More specifically, it has twelve other rooms, one diningroom, and one bedroom.  Regarding the bedroom, it is completely empty.
