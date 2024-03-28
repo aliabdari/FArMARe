@@ -6,7 +6,7 @@ This repository contains the source code for the paper ["Furniture-Aware Multi-t
 This paper has been accepted in the ICCV 2023, Computer Vision for Metaverse (CV4Metaverse) Workshop. 
 
 ## Metaverse Apartment Recommendation Challenge
-Also, this repository can be used as the base code for the [Metaverse Apartment Recommendation Challenge](http://ailab.uniud.it/apartment-recommendation-challenge).
+Also, this repository can be used as the base code for the [Metaverse Apartment Recommendation Challenge](https://ailab.uniud.it/apartment-recommendation-challenge).
 
 ## Data
 This work is based on the [3DFRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) dataset with the corresponding descriptions for each scenario. The 3DFRONT dataset can be obtained [here](https://tianchi.aliyun.com/dataset/65347). The descriptions can be found in the [descriptions](https://github.com/aliabdari/FArMARe/tree/main/descriptions) directory. On the other side, the point-of-view images for each scene have been obtained from [this repository](https://github.com/xheon/panoptic-reconstruction) which could be downloaded through [front3d-2d.zip](https://kaldir.vc.in.tum.de/panoptic_reconstruction/front3d-2d.zip).
